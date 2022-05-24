@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-teacherHakkieva/teacherHakkieva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![116559](https://user-images.githubusercontent.com/105154010/170037768-36442d34-d095-4770-a8d7-d618f3c17771.jpg)
